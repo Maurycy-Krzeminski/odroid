@@ -1,3 +1,8 @@
+# required install packages to work
+```
+sudo apt-get install -y nvme-cli
+```
+
 # script for printing temps
 ```
 # Print date
